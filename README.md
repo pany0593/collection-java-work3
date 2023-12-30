@@ -1,5 +1,6 @@
 # 项目结构
 
+```
 src
 ├─main
 │  ├─java
@@ -22,6 +23,9 @@ src
 └─test
     └─java
             test.java							//项目测试类
+```
+
+
 
 # 数据库结构
 
